@@ -21,9 +21,9 @@ Join us as we uncover insights from this data and contribute to stroke preventio
 | ---------------- | ----------------------- | ---------------------------------------- |
 | **Osama Mohamed Megahed**   |Data Preprocessing          | [GitHub Profile](https://github.com/osama24680) |
 | **Mayar Magdy Morkos**   | Data Analysis | [GitHub Profile](https://github.com/member2) |
-| **Ahmed Hesham Moahmed**   | Machine learning      | [GitHub Profile](https://github.com/member3) |
-| **Kareem Abdelfattah Mostafa**   | Data Analysis         | [GitHub Profile](https://github.com/member4) |
-| **Ebrahem Ragab Moahmed**   | Machine learning         | [GitHub Profile](https://github.com/member4) |
+| **Ahmed Hesham Moahmed**   | Machine learning      | [GitHub Profile](https://github.com/Ahmedhesham2232) |
+| **Kareem Abdelfattah Mostafa**   | Data Analysis         | [GitHub Profile](https://github.com/Kareemelsalhy) |
+| **Ebrahem Ragab Moahmed**   | Machine learning         | [GitHub Profile](https://github.com/Ebraheem-zydan) |
 
 ---
 
