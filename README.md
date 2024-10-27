@@ -19,11 +19,11 @@ Join us as we uncover insights from this data and contribute to stroke preventio
 
 | Team Member      | Role                    | GitHub Profile                           |
 | ---------------- | ----------------------- | ---------------------------------------- |
-| **Osama Mohamed Megahed**   |Data Preprocessing          | [GitHub Profile](https://github.com/osama24680) |
-| **Mayar Magdy Morkos**   | Data Analysis | [GitHub Profile](https://github.com/member2) |
-| **Ahmed Hesham Moahmed**   | Machine learning      | [GitHub Profile](https://github.com/Ahmedhesham2232) |
 | **Kareem Abdelfattah Mostafa**   | Data Analysis         | [GitHub Profile](https://github.com/Kareemelsalhy) |
-| **Ebrahem Ragab Moahmed**   | Machine learning         | [GitHub Profile](https://github.com/Ebraheem-zydan) |
+| **Mayar Magdy Morkos**   | Data Analysis | [GitHub Profile](https://github.com/member2) |
+| **Osama Mohamed Megahed**   |Data Preprocessing          | [GitHub Profile](https://github.com/osama24680) |
+| **Ahmed Hesham Moahmed**   | Machine learning      | [GitHub Profile](https://github.com/Ahmedhesham2232) |
+| **Ebrahem Ragab Moahmed**   | Deep learning         | [GitHub Profile](https://github.com/Ebraheem-zydan) |
 
 ---
 
@@ -45,6 +45,6 @@ Join us as we uncover insights from this data and contribute to stroke preventio
 ## 🚀 Getting Started
 
 ### Installation
-1. **Clone the repository:**
+ **Clone the repository:**
    ```bash
    git clone https://github.com/osama24680/Stroke-Prediction-ALX-AIS3-S1e
